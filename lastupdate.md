@@ -1,12 +1,12 @@
 <code>23-08-2003</code>
 
-- Pemisahan file defenisi lastupdate.md (file deskripsi ini).
+- Pemisahan file defenisi lastupdate.md (file deskripsi ini).<br>
 - Penambahan menu <b>*Structure Data</b> untuk keperluan *Schema* (khusus untuk theme Landing Page).
 <hr>
 
-<code>22-08-2003</code>
+<code>22-08-2003</code><br>
 
-- Disable fitur update htmly dari github terkait, dengan comment-in baris pada function.php
+- Disable fitur update htmly dari github terkait, dengan comment-in baris pada function.php<br>
 - Menghilangkan Menu Check Update
 <hr>
 
