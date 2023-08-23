@@ -1,4 +1,5 @@
 <code>23-08-2003</code><br>
+- Config 'menu.schema' untuk memunculkan atau menghilangkan Menu <br>*Sctructure Data*</b>, apabila *false* maka Schema akan dijalankan secara <em>Dinamis</em><br>
 - Pemisahan file defenisi lastupdate.md (file deskripsi ini).<br>
 - Penambahan menu <b>*Structure Data</b> untuk keperluan *Schema* (khusus untuk theme Landing Page).
 <hr>
