@@ -17,7 +17,7 @@
 
 <code>17-08-2003</code>
 
-- menghapus link referensi dan tulisan <br>*htmly*</b> pada Footer Copyright.
+- menghapus link referensi dan tulisan <b>*htmly*</b> pada Footer Copyright.
 <hr>
 
 <code>18-03-2023</code>
