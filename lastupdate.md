@@ -1,4 +1,4 @@
-<code>23-08-2003</code><p>
+<code>23-08-2003</code><br>
 - Pemisahan file defenisi lastupdate.md (file deskripsi ini).<br>
 - Penambahan menu <b>*Structure Data</b> untuk keperluan *Schema* (khusus untuk theme Landing Page).
 <hr>
@@ -9,7 +9,6 @@
 <hr>
 
 <code>20-08-2003</code><br>
-
 - Mengganti ascii ✖️ dan ✔️ dengan <b>*i class*</b>.
 <hr>
 
@@ -18,14 +17,14 @@
 <hr>
 
 <code>18-03-2023</code><br>
-- Hapus menu "Cek Pembaruan" karena tidak diperlukan.
-- Hapus menu "Impor RSS" karena tidak diperlukan.
-- Menampilkan total maksimal 20 angka halaman di Pagination pada menu Daftar Artikel.
+- Hapus menu "Cek Pembaruan" karena tidak diperlukan.<br>
+- Hapus menu "Impor RSS" karena tidak diperlukan.<br>
+- Menampilkan total maksimal 20 angka halaman di Pagination pada menu Daftar Artikel.<br>
 - Fitur input logo Provider dan pemunculan menu Provider berdasar kategori baru.
 <hr>
 
 <code>17-03-2023</code><br>
-- Cara posting game baru sudah bisa dilakukan dengan membedakan setiap Provider berdasarkan Kategori (khusus untuk theme RTP).
-- System sudah dilengkapi fitur cache dan diaktifkan secara default.
-- System sudah dilengkapi fitur BackUp dan diaktifkan secara default.
+- Cara posting game baru sudah bisa dilakukan dengan membedakan setiap Provider berdasarkan Kategori (khusus untuk theme RTP).<br>
+- System sudah dilengkapi fitur cache dan diaktifkan secara default.<br>
+- System sudah dilengkapi fitur BackUp dan diaktifkan secara default.<br>
 - Fitur Sitemap sudah bisa dipakai.
