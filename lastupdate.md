@@ -1,4 +1,4 @@
-<code>23-08-2003</code><br>
+<code>23-08-2003</code><p>
 - Pemisahan file defenisi lastupdate.md (file deskripsi ini).<br>
 - Penambahan menu <b>*Structure Data</b> untuk keperluan *Schema* (khusus untuk theme Landing Page).
 <hr>
